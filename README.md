@@ -2,7 +2,11 @@
 
 cara install 
 
+wajib install termux-api di playstore
+
 pkg update && pkg upgrade
+
+pkg install termux-api
 
 pkg install python (buat yg belum install)
 
